@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @smitpatel
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning ...new langyages
+- 🌱 I’m currently learning ...new languages
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... my email id smitpatel922005@gmail.com
+- 📫 How to reach me ... my email id 23eeo021@nirmauni.ac.in
 
 <!---
 smitpate/smitpate is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
