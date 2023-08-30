@@ -5,6 +5,6 @@
 - 📫 How to reach me ... my email id 23eeo021@nirmauni.ac.in
 
 <!---
-smitpate/smitpate is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+smitpate/smitpate is a ✨ particular ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
